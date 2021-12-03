@@ -98,12 +98,14 @@ vimgolf put 5f1063aa8361810006e73210
 # 문제 4
 vimgolf put 9v0060da5177000000000209
 
-* #### 나의 점수 :  점
+* #### 나의 점수 : 47 점
 * #### 나의 정답
-  * 
+  * :%s/y1/abs(&)< CR >f1qqr4< UP >r3< UP >r2f12jq2@q23hrb< DOWN >rr< DOWN >rgZZ
 * #### 해설
 
 * #### 풀이과정
+  ![images](https://user-images.githubusercontent.com/93646339/144622233-e8e7ee65-9d04-47a8-aa44-522c65b6d399.gif)
+
 
 
 # 문제 5
