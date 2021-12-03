@@ -27,9 +27,9 @@ vimgolf put 5f0f5fbe280fbf000c233304
 # 문제 2 
 vimgolf put 603ba26a01b4d00009c10a49
 
-* #### 나의 점수 : 8 점
+* #### 나의 점수 : 19 점
 * #### 나의 정답
-  * GWi"< END >< C-@ >ZZ
+  * w*:s//vim/g<CR>)B*g&ZZ
 * #### 해설
 
 * #### 풀이과정
