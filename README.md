@@ -5,6 +5,10 @@ vimgolf put 5f0f5fbe280fbf000c233304
 * 문제 1 해답
 
   GWi"< END >< C-@ >ZZ
+  
+* 풀이과정
+  ![image](https://user-images.githubusercontent.com/93646339/144608932-5b946d81-3214-45ee-93c9-b263e01ac139.gif)
+
 # 문제 2 
 vimgolf put 603ba26a01b4d00009c10a49
 
