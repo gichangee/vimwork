@@ -170,5 +170,7 @@ vimgolf put 6013804df3308e0009368f1c
  
 
 * #### 풀이과정
+  ![images](https://user-images.githubusercontent.com/93646339/144627781-5544c973-1468-4812-909b-2132326581ff.gif)
+
   
 
