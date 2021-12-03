@@ -111,9 +111,11 @@ vimgolf put 9v0060da5177000000000209
 # 문제 5
 vimgolf put 6013804df3308e0009368f1c
 
-* #### 나의 점수 :  점
+* #### 나의 점수 : 29 점
 * #### 나의 정답
-  * 
+  * 4jwye5jf"pa,name,age,score
 * #### 해설
 
 * #### 풀이과정
+  ![images](https://user-images.githubusercontent.com/93646339/144623048-d82b2831-757e-4048-a0d2-d4c37c3a8d27.gif)
+
